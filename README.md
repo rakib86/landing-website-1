@@ -5,4 +5,4 @@ This landing page is a web page that is designed to capture a visitor's attentio
 Copyright Disclaimer: This source code is provided for educational and informational purposes only. You may not copy, modify, or distribute this source code without the express permission of the copyright holder.
 
 
-![alt text](https://github.com/rakiburrahamanCS/landing-website-1/blob/master/card.svg?raw=true)
+![alt text](https://github.com/rakiburrahamanCS/landing-website-1/master/images/logo.png?raw=true)
