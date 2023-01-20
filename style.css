@@ -1,0 +1,130 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #e9eff4;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.header .sp .signup {
+
+    padding: 25px 45px;
+    border-radius: 27px;
+    background-color: #000000;
+    border: none;
+    font-size: 20px;
+    color: white;
+    box-shadow: 14px 21px 74px 0px rgb(0 0 0 / 75%);
+}
+
+.header img {
+    width: 3%;
+    height: 3%;
+
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+li {
+    margin: 0 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/*this is the main */
+
+
+.main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 8%;
+}
+
+
+.main-text {
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+
+}
+
+
+.main .p2 {
+    font-size: 80px;
+    font-weight: bold;
+    margin: 0 auto;
+}
+
+.main .p3 {
+    font-size: 20px;
+    opacity: 0.6;
+}
+
+.btnpair1 {
+    display: flex;
+
+}
+
+.btnpair1 .b1 {
+    margin-right: 5%;
+    padding: 25px 45px;
+    border-radius: 27px;
+    background-color: #ffa654;
+    border: none;
+    font-size: 20px;
+    color: white;
+
+}
+
+.btnpair1 .b1:hover {
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    color: #000000;
+    box-shadow: 14px 13px 81px 11px #000000;
+
+}
+
+.btnpair1 .b2 {
+    margin-right: 5%;
+    padding: 25px 45px;
+    border-radius: 27px;
+    background-color: #ffffff;
+    border: gray solid 2px;
+    font-size: 20px;
+    color: rgb(34, 32, 32);
+}
+
+.btnpair1 .b2:hover {
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.1);
+    color: #ffffff;
+    background-color: #000000;
+    border: none;
+    box-shadow: 14px 13px 81px 11px #ffa654;
+
+}
+
+
+.main-img {
+    width: 100%;
+}
+
+.main-img:hover {
+    content: url("images/card1.svg");
+
+    transition: all 0.5s ease-in-out;
+    transform: scale(1.1);
+}
