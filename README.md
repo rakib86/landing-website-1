@@ -6,4 +6,4 @@ Copyright Disclaimer: This source code is provided for educational and informati
 
 <img src="https://raw.githubusercontent.com/rakiburrahamanCS/landing-website-1/master/images/demo.png" alt="demo">
 
-<img src="https://raw.githubusercontent.com/rakiburrahamanCS/landing-website-1/master/images/demo.gif" alt="demo" width: 100%;>
+<img src="https://raw.githubusercontent.com/rakiburrahamanCS/landing-website-1/master/images/demo.gif" alt="demo" style="width: 100%;" />
